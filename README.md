@@ -1,5 +1,5 @@
 # Flutter Marvel Snap
 A new Flutter project to demostrate my skills using Flutter and for fun!
 |------------|-------------|
-|![Pizza Slices](videos/battle_snap.mp4)|
+|![Marvel Snap Battle]<video src='videos/battle_snap.mp4' width=180/>|
 |------------|-------------|
